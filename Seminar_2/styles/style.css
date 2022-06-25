@@ -1,0 +1,46 @@
+/* body {
+    background-color: orange;
+}
+
+p {
+    font-style: italic;
+}
+
+.one {
+    font-size: 30px;
+} */
+
+.Sign {
+    font-weight: bold;
+}
+
+.nothing {
+    font-style: italic;
+    font-weight: bold;
+}
+
+ul {
+    list-style-type: disclosure-closed;
+}
+
+.image1 {
+    width: 400px;
+    height: 400px;
+}
+
+body {
+    background: lightskyblue;
+}
+
+h1 {
+    color: yellow;
+}
+
+h2 {
+    color: rgb(241, 102, 9);
+}
+
+a {
+    color: green;
+    
+}
