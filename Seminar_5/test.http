@@ -1,0 +1,23 @@
+GET https://nalog.ru
+
+###
+
+POST https://yandex.ru/search/?text=котики
+
+###
+
+GET https://reqres.in/api/users?page=2
+
+###
+
+POST https://reqres.in/api/users
+
+content-type: application/json
+{
+    "name": "morpheus",
+    "job": "leader"
+}
+
+###
+
+DELETE https://reqres.in/api/users/2
